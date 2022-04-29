@@ -2,5 +2,5 @@
 ## **Azure Text Translator**
 ---
 [API Translator ](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
-![Translator](s.png)
+
 
