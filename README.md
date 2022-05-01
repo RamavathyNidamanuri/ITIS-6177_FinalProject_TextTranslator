@@ -30,9 +30,9 @@ Note: You can use the free pricing tier (F0) to try the service, and upgrade lat
 
 
 
-[API Translator ](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
+[API Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
 
-<a href="https://azure.microsoft.com/en-us/services/cognitive-services/translator/">link</a>
+<a href="https://azure.microsoft.com/en-us/services/cognitive-services/translator/">API Translator]</a>
 
 
 
