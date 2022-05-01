@@ -3,7 +3,7 @@
 [API Translator ](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
 ---
 
-> <p>Steps for Subscribing in the Azure Portal:</p>
+ ## Steps for Subscribing in the Azure Portal:
 
 
 ---
@@ -18,15 +18,15 @@
 Note: You can use the free pricing tier (F0) to try the service, and upgrade later to a paid tier for production.
 
 
-### Prerequisites
+## Prerequisites
 
 ---
 
 <ul>
-NodeJS
-Express
-Microsoft Azure Subscription
-Digital Ocean Droplet
+<li>NodeJS</li>
+<li>Express</li>
+<li>Microsoft Azure Subscription</li>
+<li>Digital Ocean Droplet</li>
 
 
 
