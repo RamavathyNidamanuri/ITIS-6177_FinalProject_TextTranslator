@@ -6,7 +6,7 @@
  ## Steps for Subscribing in the Azure Portal:
 
 
----
+
 
 <ul>
 <li>Create a subscription using email and get free credits.</li>
@@ -20,7 +20,7 @@ Note: You can use the free pricing tier (F0) to try the service, and upgrade lat
 
 ## Prerequisites
 
----
+
 
 <ul>
 <li>NodeJS</li>
