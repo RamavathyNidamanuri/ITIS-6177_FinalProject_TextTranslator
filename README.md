@@ -36,7 +36,7 @@ Note: You can use the free pricing tier (F0) to try the service, and upgrade lat
 
 ## Run the Application 
 ```
-node start
+npm start
 ```
 
 ## Swagger Documentation URL
