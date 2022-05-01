@@ -2,9 +2,9 @@
 ## **Azure Text Translator API** 
 
 
-
+```
  ## Steps for Subscribing in the Azure Portal:
-
+```
 
 
 
@@ -18,9 +18,9 @@
 
 Note: You can use the free pricing tier (F0) to try the service, and upgrade later to a paid tier for production.
 
-
+```
 ## Prerequisites
-
+```
 
 
 <ul>
@@ -29,15 +29,20 @@ Note: You can use the free pricing tier (F0) to try the service, and upgrade lat
 <li>Microsoft Azure Subscription</li>
 <li>Digital Ocean Droplet</li>
 
-
+```
 ## Install NPM Packages 
-
+```
 
 ## Run the Application 
-
+```
+node start
+```
 
 ## Swagger Documentation URL
+```
+http://142.93.52.32:3000/docs/
 
+```
 
 ## References:
 ```
