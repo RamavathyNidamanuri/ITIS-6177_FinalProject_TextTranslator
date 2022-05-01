@@ -2,9 +2,9 @@
 ## **Azure Text Translator API** 
 
 
-```
+
  ## Steps for Subscribing in the Azure Portal:
-```
+
 
 
 
@@ -18,9 +18,9 @@
 
 Note: You can use the free pricing tier (F0) to try the service, and upgrade later to a paid tier for production.
 
-```
+
 ## Prerequisites
-```
+
 
 
 <ul>
