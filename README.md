@@ -28,8 +28,7 @@ Note: You can use the free pricing tier (F0) to try the service, and upgrade lat
 <li>Microsoft Azure Subscription</li>
 <li>Digital Ocean Droplet</li>
 
-
-
+----
 
 
 <a href="https://azure.microsoft.com/en-us/services/cognitive-services/translator/">API Translator</a>
