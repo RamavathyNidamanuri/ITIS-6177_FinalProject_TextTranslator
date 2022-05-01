@@ -2,7 +2,10 @@
 ## **Azure Text Translator** 
 [API Translator ](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
 ---
-### Steps for Subscribing in the Azure Portal:
+
+<blockquote>
+    <p>Steps for Subscribing in the Azure Portal:</p>
+</blockquote>
 
 ---
 
