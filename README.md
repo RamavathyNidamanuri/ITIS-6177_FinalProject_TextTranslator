@@ -7,7 +7,7 @@
 
 
 
-'''
+```
 <ul>
 <li>Create a subscription using email and get free credits.</li>
 <li>Once you have an Azure subscription, create a Translator resource in the Azure portal to get your key and endpoint. After it deploys, select Go to a resource.</li>
@@ -15,7 +15,7 @@
 <li>Once the Translator resource is created and it is ready for use</li>
 <li>copy key, location, and Endpoint URL  and paste it in your code .</li>
 </ul>
-'''
+```
 Note: You can use the free pricing tier (F0) to try the service, and upgrade later to a paid tier for production.
 
 
