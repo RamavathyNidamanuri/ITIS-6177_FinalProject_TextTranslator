@@ -12,7 +12,7 @@
 <li>Create a subscription using email and get free credits.</li>
 <li>Once you have an Azure subscription, create a Translator resource in the Azure portal to get your key and endpoint. After it deploys, select Go to a resource.</li>
 <li>In the resource group, search and create a “Translator Services” resource </li>
-<li>Once the Translator resource is created and it is ready for use</li>
+<li>The Translator resource is created and it is ready for use</li>
 <li>copy key, location, and Endpoint URL  and paste it in your code .</li>
 </ul>
 
