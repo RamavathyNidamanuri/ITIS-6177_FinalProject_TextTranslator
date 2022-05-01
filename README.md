@@ -48,6 +48,8 @@ http://142.93.52.32:3000/docs/
 ## References:
 ```
 https://azure.microsoft.com/en-us/services/cognitive-services/translator/
+https://docs.microsoft.com/en-us/azure/cognitive-services/translator/quickstart-translator?tabs=csharp
+https://docs.microsoft.com/en-us/azure/cognitive-services/translator/text-translation-overview
 
 ```
 
