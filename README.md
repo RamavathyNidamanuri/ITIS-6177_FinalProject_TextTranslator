@@ -31,7 +31,7 @@ Note: You can use the free pricing tier (F0) to try the service, and upgrade lat
 </ul>
 
 ```
-## Install NPM Packages 
+Install NPM Packages 
 ```
 
 ## Run the Application 
