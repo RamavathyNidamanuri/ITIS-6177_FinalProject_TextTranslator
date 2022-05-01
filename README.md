@@ -1,6 +1,6 @@
 # ITIS-6177_FinalProject_TextTranslator
-## **Azure Text Translator** 
-[API Translator ](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
+## **Azure Text Translator API** 
+
 ---
 
  ## Steps for Subscribing in the Azure Portal:
@@ -29,7 +29,7 @@ Note: You can use the free pricing tier (F0) to try the service, and upgrade lat
 <li>Digital Ocean Droplet</li>
 
 
-
+[API Translator ](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
 
 
 
